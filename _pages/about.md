@@ -12,7 +12,7 @@ I am an incoming assistant professor (join in August 2022) in the Computer Scien
 
 [CV](http://Archer-W.github.io/files/CV_Minmei.pdf)
 
-<span style="color:red">**I'm always looking for self-motivated students who are interested in networks and security reseasrch.**</span> If you are interested in working with me for the Ph.D. study, feel free to drop me an email with your CV!!!
+<span style="color:red">**I'm always looking for self-motivated students (Ph.D. programs) who are interested in networks and security reseasrch.**</span> If you are interested, feel free to drop me an email with your CV!!!
 
 
 News
@@ -97,7 +97,7 @@ IEEE International Conference on Computer Communications (INFOCOM), 2019. \
 
 * [**IoTDI**] VERID: Towards Verifiable IoT Data Management. \
 Xin Li, **Minmei Wang**, Shouqian Shi, and Chen Qian. \
-ACM/IEEE International Conference on Internet of Things Design and Implementation (**IoTDI**), 2019. \
+ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2019. \
 [pdf](http://Archer-W.github.io/files/Paper/12.pdf)
 
 * [**ICNP**] When Tags ’Read’ Each Other: Enabling Low-cost and Convenient Tag Mutual Identification. \
