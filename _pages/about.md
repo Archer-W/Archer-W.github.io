@@ -33,7 +33,7 @@ Publications
 * [**CCS**] On-device IoT Certificate Revocation Checking with Small Memory and Low Latency.\
     Xiaofeng Shi, Shouqian Shi, **Minmei Wang**, Jonne Kaunisto, Chen Qian\
 	ACM Conference on Computer and Communications Security (CCS), 2021.\
-	[pdf](http://Archer-W.github.io/files/Paper/1.pdf)
+	[pdf](http://Archer-W.github.io/files/paper1.pdf)
 
 * [**ToN**] TagAttention: Mobile Object Tracing without Object Appearance Information by Vision-RFID Fusion. \
 	Xiaofeng Shi, Haofan Cai, **Minmei Wang**, Ge Wang, Baiwen Huang, Junjie Xie, and Chen Qian. \
