@@ -109,13 +109,13 @@ IEEE International Conference on Network Protocols (ICNP), 2019. \
 
 * [**Tapia**] Poster: Replayresilient Physical-layer Authentication for Battery-free IoT Devices. \
 Ge Wang, Haofan Cai, **Minmei Wang**, Chen Qian, and Jinsong Han. \
-ACM Richard Tapia Celebration of Diversity in Computing (Tapia), 2018. \
+ACM Richard Tapia Celebration of Diversity in Computing (Tapia), 2018.
 
 **[2016]**
 
 * [**ICONIP**] PTR: phrase-based topical ranking for automatic keyphrase extraction in scientific publications. \
 **Minmei Wang**, Bo Zhao, Yihua Huang. \
-International Conference on Neural Information Processing (ICONIP), 2016. \
+International Conference on Neural Information Processing (ICONIP), 2016.
 
 
 
