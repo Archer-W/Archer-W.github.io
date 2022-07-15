@@ -101,7 +101,7 @@ ACM/IEEE International Conference on Internet of Things Design and Implementatio
 [pdf](http://Archer-W.github.io/files/Paper/12.pdf)
 
 * [**ICNP**] When Tags ’Read’ Each Other: Enabling Low-cost and Convenient Tag Mutual Identification. \
-Haofan Cai, Ge Wang, Xiaofeng Shi, Junjie Xie, **Minmei Wang **, and Chen Qian. \
+Haofan Cai, Ge Wang, Xiaofeng Shi, Junjie Xie, **Minmei Wang**, and Chen Qian. \
 IEEE International Conference on Network Protocols (ICNP), 2019. \
 [pdf](http://Archer-W.github.io/files/Paper/13.pdf)
 
