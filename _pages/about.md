@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming assistant professor (join in August 2022) in the Computer Science and Engineering department at the University of Connecticut. I work on interesting and challenging problems of networks and security. I obtained my Ph.D. degree from the computer science and engineering department at the University of California Santa Cruz in June 2022, under the supervision of [Dr. Chen Qian](https://users.soe.ucsc.edu/~qian/).
+I am an assistant professor in the Computer Science and Engineering department at the University of Connecticut. I work on interesting and challenging problems of networks and security. I obtained my Ph.D. degree from the computer science and engineering department at the University of California Santa Cruz in June 2022, under the supervision of [Dr. Chen Qian](https://users.soe.ucsc.edu/~qian/).
 
 [CV](http://Archer-W.github.io/files/CV_Minmei.pdf)
 
@@ -22,7 +22,8 @@ News
 
 Research Interests
 ======
-IoT security \
+IoT \
+Network security \
 Edge computing \
 SDN \
 Data management and analysis
