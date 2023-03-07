@@ -17,11 +17,15 @@ I am an assistant professor in the Computer Science and Engineering department a
 
 News
 ======
+
+[01/2023] LOIS is accepted to IoTDI 2023, cheers! \
+[12/2022] RF-Chain is accepted to IMWUT 2023, cheers! \
 [06/2022] I have successfully defended my Ph.D. dissertation! \
 [04/2022] I wil join University of Connecticut, Computer Science and Engineering deparment as a Tenure Track Assistant Professor this August!
 
 Research Interests
 ======
+5G \
 IoT \
 Network security \
 Edge computing \
@@ -30,6 +34,15 @@ Data management and analysis
 
 Publications
 ======
+**[2023]**
+
+* [**IoTDI**] LOIS: Low-cost Packet Header Protection for IoT Devices\
+    **Minmei Wang**, Shouqian Shi, Xiaoxue Zhang, Song Han, Chen Qian\
+	ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), 2023.\
+
+* [**IMWUT**] RF-Chain: Decentralized, Credible, and Counterfeit-proof Supply Chain Management with Commodity RFIDs\
+    Ge Wang, Shouqian Shi, **Minmei Wang**, Chen Qian, Cong Zhao, Han Ding, Wei Xi, Jizhong Zhao\
+	ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2023.\
 
 **[2021]**
 
@@ -122,6 +135,8 @@ International Conference on Neural Information Processing (ICONIP), 2016.
 
 Teaching
 ======
+[Spring 2023] CSE3300: Computer Networks and Data Communication, University of Connecticut, Instructor \
+[Fall 2022] CSE5095: Special Topics in Computer Science and Engineering, University of Connecticut, Instructor \
 [Winter 2021] Probability and Statistics for Engineering (CSE107), UC Santa Cruz, Teaching Assistant \
 [Fall 2020] CSE250A: Computer Networks, UC Santa Cruz, Teaching Assistant \
 [Winter 2020] CSE 253: Network Security, UC Santa Cruz, Teaching Assistant \
