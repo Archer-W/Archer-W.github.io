@@ -26,7 +26,7 @@ Data management and analysis
 
 Recent Activities
 ======
-[08/2024] I am honored to receive a grant from NSF as a lead PI. Please check the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2426030&HistoricalAwards=false."> award information</a>, thanks NSF! \
+[08/2024] I am honored to receive a grant from NSF NeTS as a lead PI. thanks NSF! \
 [08/2024] I will serve as a PC member for ICDCS 2025! \
 [06/2024] I am honored to receive a grant from NSF CHEST program! \
 Please check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
