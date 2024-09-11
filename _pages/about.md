@@ -26,12 +26,10 @@ Data management and analysis
 
 Recent Activities
 ======
-[09/2023] I am honored to receive a grant from DOE, thanks to DOE and collaborators! \
-[09/2023] EdgeCut is accepted to SEC 2023, cheers! \
-[03/2023] I will serve as the Poster chair for SIGCOMM 2023.\
-[01/2023] LOIS is accepted to IoTDI 2023, cheers! \
-[12/2022] RF-Chain is accepted to IMWUT 2023, cheers! \
-[12/2022] I am honored to serve as SIGCOMM Information Services Director.
+[08/2024] I am honored to receive a grant from NSF as a lead PI. Please check the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2426030&HistoricalAwards=false."> award information</a>, thanks NSF! \
+[08/2024] I will serve as a PC member for ICDCS 2025! \
+[06/2024] I am honored to receive a grant from NSF CHEST program! \
+Please check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
 
 
 
