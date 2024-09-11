@@ -32,5 +32,3 @@ Recent Activities
 Please check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
 
 
-
-
