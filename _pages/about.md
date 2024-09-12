@@ -12,9 +12,9 @@ I am an assistant professor in the Computer Science and Engineering department a
 
 
 
-<b>**I'm always looking for self-motivated students (Ph.D.) who are interested in networks and security reseasrch.**</b> If you are interested, feel free to drop me an email with your CV. Please check more information at <a href = "/openings">Openings</a>.
+<b>**I'm always looking for self-motivated students (Ph.D.) who are interested in networks and security reseasrch.**</b> If you are interested, feel free to drop me an email with your CV.
 
-<span style="color:red">**Multiple Openings for Spring/Fall 2025!**</span>
+<span style="color:red">**Multiple Openings for Spring/Fall 2025!**</span> Please check more information at <a href = "/openings">Openings</a>.
 
 Research Interests
 ======
