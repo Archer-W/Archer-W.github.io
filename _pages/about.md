@@ -29,6 +29,7 @@ Recent Activities
 [08/2024] I am honored to receive a grant from NSF NeTS as a lead PI. thanks NSF! \ 
 [08/2024] I will serve as a PC member for ICDCS 2025! \
 [06/2024] I am honored to receive a grant from NSF CHEST program! \
-Please check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
+
+Check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
 
 
