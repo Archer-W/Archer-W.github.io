@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Computer Science and Engineering department at the University of Connecticut. I work on interesting and challenging problems of networks and security. I obtained my Ph.D. degree from the computer science and engineering department at the University of California Santa Cruz in June 2022, under the supervision of [Dr. Chen Qian](https://users.soe.ucsc.edu/~qian/).
+I am an assistant professor in the Computer Science and Engineering department at the University of Connecticut. I work on interesting and challenging problems of networks and security. I lead the Advanced Networks, Security, and Systems (ANSS) lab. 
+
+Background: I obtained my Ph.D. degree from the computer science and engineering department at the University of California Santa Cruz in June 2022, under the supervision of [Dr. Chen Qian](https://users.soe.ucsc.edu/~qian/).
 
 
 
