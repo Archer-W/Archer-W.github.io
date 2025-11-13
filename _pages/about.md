@@ -16,11 +16,13 @@ Background: I obtained my Ph.D. degree from the computer science and engineering
 
 <b>**I'm always looking for self-motivated students (Ph.D.) who are interested in networks and security reseasrch.**</b> If you are interested, feel free to drop me an email with your CV.
 
+<!-->
 <span style="color:red">**Multiple Openings for Spring/Fall 2025!**</span> Please check more information at <a href = "/openings">Openings</a>.
+<!-->
 
 Research Interests
 ======
-AI for 5G and beyond\
+AI for network \
 IoT \
 Network security \
 Edge computing \
