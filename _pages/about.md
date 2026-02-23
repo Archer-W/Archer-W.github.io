@@ -10,11 +10,13 @@ redirect_from:
 
 I am an assistant professor in the Computer Science and Engineering department at the University of Connecticut. I work on interesting and challenging problems of networks and security. I lead the Advanced Networks, Security, and Systems (ANSS) lab. 
 
+<!-->
 Background: I obtained my Ph.D. degree from the computer science and engineering department at the University of California Santa Cruz in June 2022, under the supervision of [Dr. Chen Qian](https://users.soe.ucsc.edu/~qian/).
+<!-->
 
-
-
+<!-->
 <b>**I'm always looking for self-motivated students (Ph.D.) who are interested in networks and security reseasrch.**</b> If you are interested, feel free to drop me an email with your CV.
+<!-->
 
 <!-->
 <span style="color:red">**Multiple Openings for Spring/Fall 2025!**</span> Please check more information at <a href = "/openings">Openings</a>.
@@ -22,12 +24,13 @@ Background: I obtained my Ph.D. degree from the computer science and engineering
 
 Research Interests
 ======
-AI for network \
-IoT \
-Network security \
-Edge computing \
-SDN \
-Data management and analysis
+Artificial Intelligence (AI) for Networks: AI/ML for networks and data-driven optimization. \
+
+Software-Defined Networking (SDN): Leveraging programmability and Large Language Models (LLMs) to enable flexible, efficient and automated network management. \
+
+Internet of Things: Design scalable and secure solutions for resource-constrained IoT ecosystems. \
+
+Efficient Data management and analysis.
 
 
 Recent Activities
