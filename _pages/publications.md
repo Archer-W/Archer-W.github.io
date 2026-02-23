@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**[2025]**
+* [**NFV-SDN**] MagicBox: Towards Consolidated Algorithms of Co-existing Network Functions on Heterogeneous Devices\
+    Yannian Niu, **Minmei Wang**\
+	IEEE Conference on Network Function Virtualization and Software-Defined Networking (NFV-SDN), 2025.
+
 **[2023]**
 
 * [**IoTDI**] LOIS: Low-cost Packet Header Protection for IoT Devices\

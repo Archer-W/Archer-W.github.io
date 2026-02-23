@@ -18,21 +18,23 @@ Background: I obtained my Ph.D. degree from the computer science and engineering
 <b>**I'm always looking for self-motivated students (Ph.D.) who are interested in networks and security reseasrch.**</b> If you are interested, feel free to drop me an email with your CV.
 !-->
 
-<!-->
+<!--
 <span style="color:red">**Multiple Openings for Spring/Fall 2025!**</span> Please check more information at <a href = "/openings">Openings</a>.
-<!-->
+!-->
+
 
 Research Interests
 ======
-Artificial Intelligence (AI) for Networks: AI/ML for networks and data-driven optimization. 
+**Artificial Intelligence (AI) for Networks**: AI/ML for networks and data-driven optimization. 
 
-Software-Defined Networking (SDN): Leveraging programmability and Large Language Models (LLMs) to enable flexible, efficient and automated network management. 
+**Software-Defined Networking (SDN)**: Leveraging programmability and Large Language Models (LLMs) to enable flexible, efficient and automated network management. 
 
-Internet of Things: Design scalable and secure solutions for resource-constrained IoT ecosystems.
+**Internet of Things**: Design scalable and secure solutions for resource-constrained IoT ecosystems.
 
-Efficient Data management and analysis.
+**Data management**: Design efficient data structures and algorithms for data management.
 
 
+<!--
 Recent Activities
 ======
 [08/2024] I am honored to receive a grant from NSF NeTS as a lead PI. thanks NSF!  
@@ -40,5 +42,5 @@ Recent Activities
 [06/2024] I am honored to receive a grant from NSF CHEST program!   
 
 Check more at <a href="https://archer-w.github.io/activities/"> Recent Activities</a>!
-
+!-->
 
