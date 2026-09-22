@@ -33,20 +33,6 @@ author_profile: true
     Shuyi Liao, Zirong Gan, Yannian Niu, Xinyue Zheng, Tingting Yu, **Minmei Wang**\
     IEEE International Conference on Network Protocols (ICNP), 2026.
 
-<!-- **[2026]** -->
-
-* [**PVLDB**] STEM<sup>2</sup>: A Fast and Space-efficient Data Structure for Exact Multi-Set Membership Queries\
-    Yannian Niu, Song Han, **Minmei Wang**\
-    Proceedings of the VLDB Endowment (PVLDB), 19(9): 2426–2438, 2026.
-
-* [**MASS**] HEAVEN: Hybrid Data Sharing for Efficient and Secure Edge-Assisted Vehicular Collaboration\
-    Shuyi Liao, Xinyue Zheng, Xiaoxue Zhang, Haofan Cai, **Minmei Wang**\
-    IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2026.
-
-* [**ICNP Poster**] A Property Knowledge Base for Intent-Driven Validation of Programmable Data Planes\
-    Shuyi Liao, Zirong Gan, Yannian Niu, Xinyue Zheng, Tingting Yu, **Minmei Wang**\
-    IEEE International Conference on Network Protocols (ICNP), 2026.
-
 <!-- **[2025]** -->
 
 * [**NFV-SDN**] MagicBox: Towards Consolidated Algorithms of Co-existing Network Functions on Heterogeneous Devices\
