@@ -9,7 +9,7 @@ author_profile: true
 
 * [**SIGMETRICS**] P4Bench: A Scalable and Adaptive Oracle-Backed Benchmark for P4 Programming with Large Language Models\
     Zirong Gan, Shuyi Liao, Yannian Niu, Xinyue Zheng, Tingting Yu, **Minmei Wang**\
-    ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), 2027.
+    ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), 2027. [paper](http://Archer-W.github.io/files/Paper/P4Bench.pdf)
 
 <!-- **[2026]** -->
 
